@@ -1,0 +1,67 @@
+
+body{
+    background: #FFF7F4;
+
+}
+.img-logo{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.btn-talk{
+    width: 135px;
+    height: 50px;
+}
+.para1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48.83px;
+    line-height: 73px;
+    margin-top: 100px;
+    margin-left: 55px;
+}
+.para2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7B7B7B;
+    margin-left: 55px;
+    margin-top: 20px;
+
+}
+.btn-start{
+    width: 182px;
+    height: 50px;
+    background: #FF5300;
+    border-radius: 5px;    
+    color: white;
+}
+.img-frame{
+    margin-top: 85px;
+}
+.btn-div{
+    margin: 20px 0px 0px 55px;
+}
+.link-hover:hover{
+    cursor: pointer;
+    color: #FF5300;
+}
+.line{
+    width: 40px;
+    border: 1px solid #FF5300;
+    font-weight: 400;
+    display: inline-block;
+}
+.testmonial-title--name{   
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF5300;   
+    position: relative;
+    bottom: 15px; 
+}
+.arrow{
+    margin-top: 95px;
+}

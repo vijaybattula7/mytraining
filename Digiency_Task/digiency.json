@@ -1,0 +1,31 @@
+{
+    "client":[
+        {
+            "rating":"./stars.png",
+            "content":"Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo. Rhoncus.",
+            "client_img":"./Image1.png",
+            "client_name":"Phillip Levin",
+            "client_role":"CEO / Creative IT",
+            "doubleqoute_icon":"./double-quotes.png",
+            "id":1
+        },
+        {
+            "rating":"./stars.png",
+            "content":"Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo. Rhoncus.",
+            "client_img":"./Image2.png",
+            "client_name":"Lincoln Lipshutz",
+            "client_role":"CEO / Creative IT",
+            "doubleqoute_icon":"./double-quotes.png",
+            "id":2
+        },
+        {
+            "rating":"./stars.png",
+            "content":"Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo. Rhoncus.",
+            "client_img":"./Image3.png",
+            "client_name":"Craig Siphron",
+            "client_role":"CEO / Creative IT",
+            "doubleqoute_icon":"./double-quotes.png",
+            "id":3
+        }
+    ]
+}
